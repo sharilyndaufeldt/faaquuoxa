@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohnoewiev.azhong.work/sitemap.xml
